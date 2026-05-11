@@ -14,11 +14,11 @@ The submission intentionally avoids wallet signing, swaps, and trading. The goal
 
 Project Github Link:
 
-TODO: Add public GitHub repo URL after upload.
+https://github.com/zLiM5/jupiter-signal-console
 
 Feedback doc/markdown file:
 
-TODO: Add GitHub link to `DX-REPORT.md` after upload.
+https://github.com/zLiM5/jupiter-signal-console/blob/master/DX-REPORT.md
 
 Project Website:
 
