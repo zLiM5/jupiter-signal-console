@@ -1,0 +1,24 @@
+{
+  "name": "jupiter-signal-console",
+  "version": "0.1.0",
+  "description": "Read-only Jupiter API prototype for token metadata, price snapshots, and developer experience feedback.",
+  "type": "module",
+  "bin": {
+    "jupiter-signal-console": "./src/jupiter-signal-console.js"
+  },
+  "scripts": {
+    "start": "node ./src/jupiter-signal-console.js",
+    "demo": "node ./src/jupiter-signal-console.js SOL JUP USDC"
+  },
+  "keywords": [
+    "jupiter",
+    "solana",
+    "developer-experience",
+    "tokens",
+    "price"
+  ],
+  "license": "MIT",
+  "engines": {
+    "node": ">=20"
+  }
+}
